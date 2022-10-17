@@ -1,6 +1,6 @@
 ### Hello, i'm [muecht](https://github.com/muecht) ✨
 
-- 🎲 I’m currently working on nothing.
+- 🎲 I’m currently working on [Netty](https://discord.gg/)
 
 **Languages and Tools:**
 
